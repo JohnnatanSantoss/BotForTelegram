@@ -1,1 +1,1 @@
-BotForInstagram
+BotForTelegram
